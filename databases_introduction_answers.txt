@@ -24,8 +24,8 @@ A) Databases display data using a table structure with columns and rows. We can 
 
 A) 
 Table: Structure of the database which store and organize data. It consists of rows and columns.
-Row: Makes up a complete conceptual unit.
 Column: Defines what the data represents.
+Row: Contain the records or data for the columns.
 Value: representation of data which is hold in each cell.
 
 6. List three data types that can be used in a table.
